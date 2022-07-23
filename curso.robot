@@ -47,3 +47,6 @@ Click Estado Query
 
 Click BotaoCadastrar
     Click Element   BotaoCadatrar
+
+Click BotaoVoltar
+    Click Element   BotaoVoltar
